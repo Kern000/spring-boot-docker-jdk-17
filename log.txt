@@ -1,0 +1,39 @@
+2024-07-06T22:07:37.488+08:00  INFO 37136 --- [coders-practice] [restartedMain] c.k.c.CodersPracticeApplication          : Starting CodersPracticeApplication using Java 22.0.1 with PID 37136 (C:\Users\metal\coders-practice\target\classes started by metal in C:\Users\metal\coders-practice)
+2024-07-06T22:07:37.491+08:00 DEBUG 37136 --- [coders-practice] [restartedMain] c.k.c.CodersPracticeApplication          : Running with Spring Boot v3.2.7, Spring v6.1.10
+2024-07-06T22:07:37.492+08:00  INFO 37136 --- [coders-practice] [restartedMain] c.k.c.CodersPracticeApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-07-06T22:07:37.558+08:00  INFO 37136 --- [coders-practice] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-06T22:07:37.567+08:00  INFO 37136 --- [coders-practice] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-06T22:07:38.353+08:00  INFO 37136 --- [coders-practice] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2024-07-06T22:07:38.432+08:00  INFO 37136 --- [coders-practice] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 73 ms. Found 1 JDBC repository interface.
+2024-07-06T22:07:39.130+08:00  INFO 37136 --- [coders-practice] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8085 (http)
+2024-07-06T22:07:39.146+08:00  INFO 37136 --- [coders-practice] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-06T22:07:39.147+08:00  INFO 37136 --- [coders-practice] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-06T22:07:39.209+08:00  INFO 37136 --- [coders-practice] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-06T22:07:39.211+08:00  INFO 37136 --- [coders-practice] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1642 ms
+2024-07-06T22:07:39.403+08:00  INFO 37136 --- [coders-practice] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-07-06T22:07:40.293+08:00  INFO 37136 --- [coders-practice] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5b0688a6
+2024-07-06T22:07:40.296+08:00  INFO 37136 --- [coders-practice] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-07-06T22:07:40.516+08:00  INFO 37136 --- [coders-practice] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-06T22:07:41.196+08:00  INFO 37136 --- [coders-practice] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8085 (http) with context path ''
+2024-07-06T22:07:41.207+08:00  INFO 37136 --- [coders-practice] [restartedMain] c.k.c.CodersPracticeApplication          : Started CodersPracticeApplication in 4.347 seconds (process running for 4.897)
+2024-07-06T22:07:57.195+08:00  INFO 37136 --- [coders-practice] [http-nio-8085-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-06T22:07:57.196+08:00  INFO 37136 --- [coders-practice] [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-06T22:07:57.199+08:00  INFO 37136 --- [coders-practice] [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-07-06T22:25:30.170+08:00  INFO 23544 --- [coders-practice] [restartedMain] c.k.c.CodersPracticeApplication          : Starting CodersPracticeApplication using Java 22.0.1 with PID 23544 (C:\Users\metal\coders-practice\target\classes started by metal in C:\Users\metal\coders-practice)
+2024-07-06T22:25:30.173+08:00 DEBUG 23544 --- [coders-practice] [restartedMain] c.k.c.CodersPracticeApplication          : Running with Spring Boot v3.2.7, Spring v6.1.10
+2024-07-06T22:25:30.175+08:00  INFO 23544 --- [coders-practice] [restartedMain] c.k.c.CodersPracticeApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-07-06T22:25:30.242+08:00  INFO 23544 --- [coders-practice] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-06T22:25:30.243+08:00  INFO 23544 --- [coders-practice] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-06T22:25:31.014+08:00  INFO 23544 --- [coders-practice] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2024-07-06T22:25:31.090+08:00  INFO 23544 --- [coders-practice] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 70 ms. Found 1 JDBC repository interface.
+2024-07-06T22:25:31.747+08:00  INFO 23544 --- [coders-practice] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8085 (http)
+2024-07-06T22:25:31.764+08:00  INFO 23544 --- [coders-practice] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-06T22:25:31.765+08:00  INFO 23544 --- [coders-practice] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-06T22:25:31.829+08:00  INFO 23544 --- [coders-practice] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-06T22:25:31.831+08:00  INFO 23544 --- [coders-practice] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1586 ms
+2024-07-06T22:25:32.014+08:00  INFO 23544 --- [coders-practice] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-07-06T22:25:33.163+08:00  INFO 23544 --- [coders-practice] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5b0688a6
+2024-07-06T22:25:33.167+08:00  INFO 23544 --- [coders-practice] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-07-06T22:25:33.488+08:00  INFO 23544 --- [coders-practice] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-07-06T22:25:34.252+08:00  INFO 23544 --- [coders-practice] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8085 (http) with context path ''
+2024-07-06T22:25:34.262+08:00  INFO 23544 --- [coders-practice] [restartedMain] c.k.c.CodersPracticeApplication          : Started CodersPracticeApplication in 4.718 seconds (process running for 5.246)

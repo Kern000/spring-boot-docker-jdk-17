@@ -1,0 +1,15 @@
+package com.kern000.coders_practice.user;
+
+public record User(
+    Integer id,
+    String name,
+    String username,
+    String email,
+    Address address,
+    String phone,
+    String website,
+    Company company
+){
+
+    
+}
