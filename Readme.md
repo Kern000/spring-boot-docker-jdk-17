@@ -20,8 +20,10 @@ This is a Spring Boot Rest API deployed on AWS EC2. Database used is AWS RDS. Do
 <p> Used with YARC or an API endpoint consumption. The HTTP Verb required is DELETE.</p>
 
 <h4> Other Features: </h4>
-1. INFO level logging on root
-2. TRACE level logging on "practice" folder level
-3. gzip server compression on various HTTP data types
-4. SQL initial piping, SQL seeding
-5. SQL Parameterization on Data Access Layer
+<ol>
+<li> INFO level logging on root </li>
+<li> TRACE level logging on "practice" folder level </li>
+<li> gzip server compression on various HTTP data types </li>
+<li> SQL initial piping, SQL seeding </li>
+<li> SQL Parameterization on Data Access Layer </li>
+</ol>
