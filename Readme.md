@@ -1,6 +1,6 @@
 This is a Spring Boot Rest API deployed on AWS EC2. Database used is AWS RDS. DockerFile is used to create build, and SSH is used to manage AWS EC2 Instance and Docker.
 
-<h2>Live link to the server is as follows: </h2>
+<h2 target="_blank">Live link to the server is as follows: </h2>
 http://13.229.250.169/api/practices
 
 <h2>Routes:</h2>
