@@ -2,7 +2,7 @@ This is a Spring Boot Rest API deployed on AWS EC2. Database used is AWS RDS. Do
 
 <h2>Live link to the server is: </h2>
 <a href="http://13.229.250.169/api/practices" target="_blank"> Link to live server </a>
-<p> Github does not natively support open in new tab, so can use "ctrl + click" on the link instead to open in new tab</p>
+<p> Github does not natively support open in new tab for markdown, so use "ctrl + click" on the link instead to open in new tab</p>
 
 <h2>Routes:</h2>
 <h4> /api/practices </h4>
