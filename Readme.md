@@ -1,9 +1,11 @@
 This is a Spring Boot Rest API deployed on AWS EC2. Database used is AWS RDS. DockerFile is used to create build, and SSH is used to manage AWS EC2 Instance and Docker.
 
 <h2>Live link to the server is: </h2>
-<p> http://13.229.250.169/api/practices </p>
+<p> http:// </p>
+<p> 13.229.250.169 </p>
+<p> URI is: /api/practices </p>
 
-<p> Github does not natively support open in new tab for markdown, so use "ctrl + click" on the link instead to open in new tab</p>
+<p> Separated the url to stop botcrawling</p>
 
 <h2>Routes:</h2>
 <h4> /api/practices </h4>
